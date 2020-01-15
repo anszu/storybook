@@ -1,5 +1,5 @@
 {
-  "name": "@storybook/addon-storyshots-puppeteer",
+  "name": "@storybook/addon-storyshots-puppeteer-with-skip",
   "version": "5.3.3",
   "description": "Image snapshots addition to StoryShots based on puppeteer",
   "keywords": [
